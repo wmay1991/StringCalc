@@ -1,0 +1,9 @@
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\obj\Debug\StringCalcDemo.Tests.csprojResolveAssemblyReference.cache
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\bin\Debug\StringCalcDemo.Tests.dll
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\bin\Debug\StringCalcDemo.Tests.pdb
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\bin\Debug\nunit.framework.dll
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\bin\Debug\StringCalcDemo.exe
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\bin\Debug\StringCalcDemo.pdb
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\bin\Debug\nunit.framework.xml
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\obj\Debug\StringCalcDemo.Tests.dll
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo.Tests\obj\Debug\StringCalcDemo.Tests.pdb

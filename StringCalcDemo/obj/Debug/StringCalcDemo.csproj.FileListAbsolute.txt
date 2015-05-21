@@ -1,0 +1,6 @@
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo\bin\Debug\StringCalcDemo.exe.config
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo\bin\Debug\StringCalcDemo.exe
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo\bin\Debug\StringCalcDemo.pdb
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo\obj\Debug\StringCalcDemo.exe
+c:\users\manifest\documents\visual studio 2013\Projects\StringCalcDemo\StringCalcDemo\obj\Debug\StringCalcDemo.pdb
+C:\Users\Manifest\Documents\Visual Studio 2013\Projects\StringCalcDemo\StringCalcDemo\obj\Debug\StringCalcDemo.csprojResolveAssemblyReference.cache
