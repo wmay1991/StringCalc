@@ -1,0 +1,2 @@
+# StringCalc
+String Calculator Kata
