@@ -78,6 +78,7 @@ namespace StringCalcDemo.Tests
         }
 
 
+
         [TestCase("1\n\n2", Result = 3)]
         public int TestForMultipleLineBreaks(string numbers)
         {
