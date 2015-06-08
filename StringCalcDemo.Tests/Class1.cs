@@ -70,13 +70,13 @@ namespace StringCalcDemo.Tests
             return calc.Add(numbers);
         }
 
+
         [TestCase("1001+2", Result = 2)]
         public int TestForOverThousand(string numbers)
         {
             var calc = new Calc();
             return calc.Add(numbers);
         }
-
 
 
         [TestCase("1\n\n2", Result = 3)]
